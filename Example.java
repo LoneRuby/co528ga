@@ -6,8 +6,8 @@ class Example {
 		    long startT=System.currentTimeMillis();
 
 				//Edit this according to your name and login
-			String name="Alex BAGUENARD";
-			String login = "agmb3";
+			String name="NAME";
+			String login = "LOGIN";
 
 			System.out.println("These are the instructions of how to use the problem library.  Please make sure you follow the instructions carefully.");
 
